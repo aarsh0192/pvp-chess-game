@@ -8,5 +8,5 @@ pip install pygame
 **Run the game:**
 python main.py  
 
-Press 'T' to change the theme.
+Press 'T' to change the theme.<br>
 Press 'R' to reset the game.
