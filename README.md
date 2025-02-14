@@ -1,6 +1,6 @@
 <h1>Chess Game 🎮♟️</h1>
 
-A fully functional Chess game built using Python and Pygame, applying Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, and multiple classes for modularity.
+A fully functional player-versus-player chess game built using Python and Pygame, applying Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, and multiple classes for modularity.
 
 <h3>Install dependencies:</h3>
 pip install pygame
