@@ -5,7 +5,7 @@ A fully functional Chess game built using Python and Pygame, applying Object-Ori
 <h3>Install dependencies:</h3>
 pip install pygame
 <h3>Run the game:</h3>
-python main.py  
+python main.py  <br><br>
 
 Press 'T' to change the theme.<br>
 Press 'R' to reset the game.
